@@ -14,7 +14,7 @@ for i in range(m,n+1):
         if check == 0:
             sum += i
             if i<min:
-                min=i
+                min=i0
 
 if min == 10001:
     print(-1)
